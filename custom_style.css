@@ -1,6 +1,4 @@
-/**
-* Basic styles
-*/
+/*** Basic styles*/
 
 /* locker text */
 .onp-sociallocker .onp-sociallocker-strong,
@@ -445,7 +443,7 @@
 }
 .onp-sociallocker-secrets .onp-sociallocker-button .onp-sociallocker-overlay-text {
     font-size: 14px;
-    font-family: "Arial", "Helvetica", sans-serif;
+    font-family: "Lato", sans-serif;
     line-height: 34px;
     color: #fff;
     text-align: center;
@@ -831,7 +829,7 @@
 }
 .onp-sociallocker-flat .onp-sociallocker-button .onp-sociallocker-overlay-text {
     font-size: 14px;
-    font-family: "Arial", "Helvetica", sans-serif;
+    font-family: "Lato", sans-serif;
     line-height: 34px;
     color: #fff;
     text-align: center;
